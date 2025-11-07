@@ -1,0 +1,15 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+## Week 6 Section
+
+```{r}
+library(tidyverse)
+library(sf)
+library(terra)
+library(tmap)
+library(tmaptools)
+```
